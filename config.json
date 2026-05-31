@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggersync",
+        "uuid": 17118243,
+        "checksum": "if8fjb"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
